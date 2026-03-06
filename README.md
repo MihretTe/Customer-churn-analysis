@@ -32,6 +32,17 @@ The analysis followed a rigorous data science workflow using [Method.R](https://
 
 ---
 
+## 📂 Repository Structure
+
+| File/Folder | Description |
+| :--- | :--- |
+| **[Method.R](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Method.R)** | The core R script containing data cleaning, EDA, and statistical tests. |
+| **[Final Project With Rcode.zip](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Final%20Project%20With%20Rcode.zip)** | Contains the original dataset and bundled analysis environment. |
+| **[Tesfaye's.Presentation.pptx](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Tesfaye's.Presentation.pptx)** | Business-oriented summary of findings, risks, and recommendations. |
+| **Visualizations (.png)** | Key plots generated during EDA, including CLTV, Satisfaction scores, and Chi-square results. |
+
+---
+
 ## 💡 Conclusion & Recommendations
 * **Prioritize Onboarding:** Focus retention strategies on the first 12 months of tenure, as this is the highest-risk period.
 * **Contract Incentives:** Transition month-to-month customers to annual plans through targeted promotional offers.
