@@ -36,11 +36,10 @@ The analysis followed a rigorous data science workflow using [Method.R](https://
 
 | File/Folder | Description |
 | :--- | :--- |
-| **[Method.R](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Method.R)** | The core R script containing data cleaning, EDA, and statistical tests. |
-| **[Final Project With Rcode.zip](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Final%20Project%20With%20Rcode.zip)** | Contains the original dataset and bundled analysis environment. |
-| **[Tesfaye's.Presentation.pptx](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Tesfaye's.Presentation.pptx)** | Business-oriented summary of findings, risks, and recommendations. |
-| **Visualizations (.png)** | Key plots generated during EDA, including CLTV, Satisfaction scores, and Chi-square results. |
-
+| **[Method.R](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Method.R)** | The core R script containing data cleaning, feature engineering, and statistical analysis. |
+| **Telco.csv** | The raw dataset containing customer demographics, service usage, and churn metrics. |
+| **[Tesfaye's.Presentation.pptx](https://github.com/MihretTe/Customer-churn-analysis/blob/main/Tesfaye's.Presentation.pptx)** | A professional summary of the project's findings, business risks, and strategic recommendations. |
+| **Visualizations (.png)** | A collection of plots illustrating key churn drivers, including Satisfaction Scores, Tenure, and Chi-square results. |
 ---
 
 ## 💡 Conclusion & Recommendations
